@@ -12,21 +12,6 @@
         allow="autoplay"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836342089%3Fsecret_token%3Ds-xUpZQagZY7H&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
-      <a
-        href="https://soundcloud.com/electryps"
-        title="Electryps"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >Electryps</a
-      >
-      ·
-      <a
-        href="https://soundcloud.com/electryps/sortna-this-is-weird-electryps-remix/s-xUpZQagZY7H"
-        title="Sortna - This Is Weird (Electryps Remix)"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >Sortna - This Is Weird (Electryps Remix)</a
-      >
     </div>
     <h2>Forest</h2>
     <div>
@@ -38,21 +23,6 @@
         allow="autoplay"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833980315%3Fsecret_token%3Ds-4pjSQREZA3C&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
-      <a
-        href="https://soundcloud.com/electryps"
-        title="Electryps"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >Electryps</a
-      >
-      ·
-      <a
-        href="https://soundcloud.com/electryps/ectogasmics-love-understanding-electryps-remix/s-4pjSQREZA3C"
-        title="Ectogasmics - Love &amp; Understanding (Electryps Remix)"
-        target="_blank"
-        style="color: #cccccc; text-decoration: none;"
-        >Ectogasmics - Love &amp; Understanding (Electryps Remix)</a
-      >
     </div>
     <div>
       <iframe
