@@ -2,6 +2,7 @@
   <div id="app">
     <img class="logo" alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Coming soon" />
+    <img alt="bottom" src="./assets/logobottom.png" />
   </div>
 </template>
 
