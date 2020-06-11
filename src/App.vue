@@ -2,7 +2,7 @@
   <div id="app">
     <img class="logo" alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Coming soon" />
-    <img alt="bottom" src="./assets/logobottom.png" />
+    <img class="logo-bottom" alt="bottom" src="./assets/logobottom.png" />
   </div>
 </template>
 
@@ -29,5 +29,9 @@ export default {
 .logo {
   width: 900px;
   height: 576px;
+}
+.logo-bottom {
+  width: 800px;
+  height: 553px;
 }
 </style>
