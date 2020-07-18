@@ -62,7 +62,7 @@
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/860431450&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </div>
-    <h2>Chill unmasterd</h2>
+    <h2>Chill unmastered</h2>
     <div>
       <iframe
         width="100%"
