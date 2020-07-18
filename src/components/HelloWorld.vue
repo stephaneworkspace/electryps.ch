@@ -2,29 +2,16 @@
   <div class="hello">
     <!--<h1>{{ msg }}</h1>
     <hr />-->
-    <h2>Psychill</h2>
+    <h2>Forest mastered</h2>
     <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836342089%3Fsecret_token%3Ds-xUpZQagZY7H&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
+      <a
+        href="https://parvati-records.com/releases/va-love-understanding-remixes"
+        >Parvati Records - PRVDG33 - 03. Ectogasmics - Love & Understanding
+        (Electryps remix)</a
+      >
     </div>
-    <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/840603730%3Fsecret_token%3Ds-IjS62PIn1rD&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
-    </div>
-    <h2>Forest</h2>
-    <div>
+    <h2>Forest unmastered</h2>
+    <!--   <div>
       <iframe
         width="100%"
         height="166"
@@ -44,6 +31,7 @@
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/838153090%3Fsecret_token%3Ds-tnFKfb2jnz9&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </div>
+-->
     <div>
       <iframe
         width="100%"
@@ -62,6 +50,37 @@
         frameborder="no"
         allow="autoplay"
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/848315872%3Fsecret_token%3Ds-DJKGti8Lr6B&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+      ></iframe>
+    </div>
+    <div>
+      <iframe
+        width="100%"
+        height="166"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/860431450&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+      ></iframe>
+    </div>
+    <h2>Chill unmasterd</h2>
+    <div>
+      <iframe
+        width="100%"
+        height="166"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836342089%3Fsecret_token%3Ds-xUpZQagZY7H&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+      ></iframe>
+    </div>
+    <div>
+      <iframe
+        width="100%"
+        height="166"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/840603730%3Fsecret_token%3Ds-IjS62PIn1rD&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </div>
     <!--<h2>Full On</h2>
