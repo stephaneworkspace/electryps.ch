@@ -1,8 +1,9 @@
 <template>
   <div class="hello">
-    <!--<h1>{{ msg }}</h1>
-    <hr />-->
-    <h2>Forest mastered</h2>
+    <!--<h1>{{ msg }}</h1>-->
+    <h1>2020 Psychedelic trance work</h1>
+    <hr />
+    <h2>148bpm mastered</h2>
     <div>
       <a
         href="https://parvati-records.com/releases/va-love-understanding-remixes"
@@ -10,38 +11,7 @@
         (Electryps remix)</a
       >
     </div>
-    <h2>Forest unmastered</h2>
-    <!--   <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833980315%3Fsecret_token%3Ds-4pjSQREZA3C&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
-    </div>
-    <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/838153090%3Fsecret_token%3Ds-tnFKfb2jnz9&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
-    </div>
--->
-    <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/838388899%3Fsecret_token%3Ds-ppEdipOwZ5S&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
-    </div>
+    <h2>148bpm unmastered</h2>
     <div>
       <iframe
         width="100%"
@@ -62,6 +32,26 @@
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/860431450&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </div>
+    <h2>150bpm unmastered</h2>
+    <div>
+      <iframe
+        width="100%"
+        height="166"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/838388899%3Fsecret_token%3Ds-ppEdipOwZ5S&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+      ></iframe>
+    </div>
+    <h2>158 bpm unmastered</h2>
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/866814454&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+    ></iframe>
     <h2>Chill unmastered</h2>
     <div>
       <iframe
@@ -83,23 +73,14 @@
         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/840603730%3Fsecret_token%3Ds-IjS62PIn1rD&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </div>
-    <!--<h2>Full On</h2>
-    <div>
-      <iframe
-        width="100%"
-        height="166"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/834063229%3Fsecret_token%3Ds-iypGYOFzUvV&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-      ></iframe>
-    </div>-->
-    <!--<p>
-      Check my sounds on
-      <a href="https://soundcloud.com/electryps" target="_blank" rel="noopener"
-        >Soundcloud</a
-      >.
-    </p>-->
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/866813680%3Fsecret_token%3Ds-IXjA2fOukIy&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+    ></iframe>
     <!--
     <h3>Installed CLI Plugins</h3>
     <ul>
