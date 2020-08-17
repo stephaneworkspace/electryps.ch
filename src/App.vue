@@ -2,6 +2,10 @@
   <div id="app">
     <img class="logo" alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Coming soon" />
+    <hr />
+    <h1>Bricolage javascript temporaire</h1>
+    <button v-on:click="compute">Compute json</button>
+    <div style="font: CourrierNew;">{{ j }}</div>
     <img class="logo-bottom" alt="bottom" src="./assets/logobottom.png" />
     <img class="logo-bottom-2" alt="bottom" src="./assets/logobottom2.png" />
   </div>
@@ -14,10 +18,19 @@ export default {
   name: "App",
   components: {
     HelloWorld
+  },
+  data() {
+    return {
+      j: ""
+    };
+  },
+  methods: {
+    compute: function() {
+      this.j = "ok";
+    }
   }
 };
 </script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
