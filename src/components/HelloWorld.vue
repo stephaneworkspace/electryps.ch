@@ -7,16 +7,14 @@
     https://soundcloud.com/electryps/pahala-2-moon-later/s-9Y75mOClLF5 
     -->
     <h2>138bpm unmastered</h2>
-    <div>
-      <iframe
-        width="100%"
-        height="300"
-        scrolling="no"
-        frameborder="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900401629%3Fsecret_token%3Ds-m5fnPw5jvNJ&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-      ></iframe>
-    </div>
+    <iframe
+      width="100%"
+      height="166"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900401629%3Fsecret_token%3Ds-m5fnPw5jvNJ&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
+    ></iframe>
     <h1>2020 Psychedelic trance work</h1>
     <hr />
     <h2>148bpm mastered</h2>
