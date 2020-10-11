@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <!--<h1>{{ msg }}</h1>-->
-    <h1>2020 Mix Psychedelic trance</h1>
     <hr />
+    <h1>2020 Mix Psychedelic trance</h1>
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -26,8 +26,8 @@
         14) Tengri, Atriohm - Train To Goa 
       </div>
     </div>
-    <h1>2020 Progressive trance work</h1>
     <hr />
+    <h1>2020 Progressive trance work</h1>
     <h2>138bpm unmastered</h2>
     <iframe
       width="100%"
@@ -37,8 +37,8 @@
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900401629%3Fsecret_token%3Ds-m5fnPw5jvNJ&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
-    <h1>2020 Psychedelic trance work</h1>
     <hr />
+    <h1>2020 Psychedelic trance work</h1>
     <h2>146bpm unmastered</h2>
     <hr />
     <iframe
@@ -56,6 +56,7 @@
         >Parvati Records - PRVDG33 - 03. Ectogasmics - Love & Understanding
         (Electryps remix)</a
       >
+      <br />
       <iframe width="560" height="315" src="https://www.youtube.com/embed/s_vf1W2pjeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <h2>148bpm unmastered</h2>
@@ -100,8 +101,8 @@
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/866818621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
-    <h1>2020 Dub techno work</h1>
     <hr />
+    <h1>2020 Dub techno work</h1>
     <h2>Dub techno unmastered</h2>
     <iframe
       width="100%"
@@ -111,8 +112,8 @@
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/874566004%3Fsecret_token%3Ds-r7sjTJqJmRP&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
-    <h1>2020 Chill work</h1>
     <hr />
+    <h1>2020 Chill work</h1>
     <h2>Chill unmastered</h2>
     <div>
       <iframe
