@@ -56,8 +56,9 @@
         >Parvati Records - PRVDG33 - 03. Ectogasmics - Love & Understanding
         (Electryps remix)</a
       >
-      <br />
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/s_vf1W2pjeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/s_vf1W2pjeo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
     </div>
     <h2>148bpm unmastered</h2>
     <div>
