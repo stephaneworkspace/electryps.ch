@@ -1,6 +1,11 @@
 <template>
   <div class="hello">
     <!--<h1>{{ msg }}</h1>-->
+    <h1>2020 Mix Psychedelic trance</h1>
+    <audio controls>
+      <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
     <h1>2020 Progressive trance work</h1>
     <hr />
     <h2>138bpm unmastered</h2>
