@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <div id="title" />
-    <!--<img class="logo" alt="Vue logo" src="./assets/logo.png" />-->
     <HelloWorld msg="Coming soon" />
     <img class="logo-bottom" alt="bottom" src="./assets/logobottom.png" />
     <img class="logo-bottom-2" alt="bottom" src="./assets/logobottom2.png" />
@@ -33,6 +32,8 @@ export default {
 }
 #title {
   background-image: url("./assets/logo.png");
+	background-repeat: no-repeat;
+	background-position: center top;  
   min-height: 100vh;
 }
 .logo {
