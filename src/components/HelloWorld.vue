@@ -6,6 +6,26 @@
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
+    <div>
+    <h3>Track list</h3>
+    <div>
+      1) Secret Society - Wudka Weekend<br />
+      2) Archaic - Animystic<br />
+      3) Archaic - Everything Continues<br />
+      4) Archaic - Tree Dome<br />
+      5) LuneCell - One Flew Over (Atriohm Remix)<br />
+      6) Urskogr, Sortna - Hva Som Helst<br />
+      7) Kuro Fusion - The Druid's Dipsauce<br />
+      8) Tengri - Not Here<br />
+      9) Archaic - Hazelnut Twig<br />
+      10) AudioFools - Boooh!<br />
+      11) Tengri - In The Mist<br />
+      12) Kiohm, Sortna - Alfheimr<br />
+      13) Secret Society - Beginning The Cycle<br />
+      14) Tengri, Atriohm - Train To Goa 
+    </div>
+    </div>
+    <hr />
     <h1>2020 Progressive trance work</h1>
     <hr />
     <h2>138bpm unmastered</h2>
