@@ -32,7 +32,7 @@ export default {
   margin-top: 20px;
 }
 #title {
-  background-image: "./assets/logo.png";
+  background-image: url("./assets/logo.png");
   min-height: 100vh;
 }
 .logo {
