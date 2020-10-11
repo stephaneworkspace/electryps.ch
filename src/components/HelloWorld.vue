@@ -7,7 +7,7 @@
       Your browser does not support the audio element.
     </audio>
     <div>
-    <h3>Track list</h3>
+    <b>Track list</b>
     <div>
       1) Secret Society - Wudka Weekend<br />
       2) Archaic - Animystic<br />
