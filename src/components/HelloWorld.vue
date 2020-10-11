@@ -2,6 +2,7 @@
   <div class="hello">
     <!--<h1>{{ msg }}</h1>-->
     <h1>2020 Mix Psychedelic trance</h1>
+    <hr />
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -25,8 +26,8 @@
         14) Tengri, Atriohm - Train To Goa 
       </div>
     </div>
-    <hr />
     <h1>2020 Progressive trance work</h1>
+    <hr />
     <h2>138bpm unmastered</h2>
     <iframe
       width="100%"
@@ -36,8 +37,8 @@
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900401629%3Fsecret_token%3Ds-m5fnPw5jvNJ&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
-    <hr />
     <h1>2020 Psychedelic trance work</h1>
+    <hr />
     <h2>146bpm unmastered</h2>
     <hr />
     <iframe
