@@ -3,6 +3,7 @@
     <!--<h1>{{ msg }}</h1>-->
     <hr />
     <h1>2020 Mix Psychedelic trance</h1>
+    <h2>150 bpm<h2/>
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -25,6 +26,31 @@
           12) Kiohm, Sortna - Alfheimr<br />
           13) Secret Society - Beginning The Cycle<br />
           14) Tengri, Atriohm - Train To Goa 
+        </div>
+      <p />
+    </div>
+    <h2>155 bpm -> 170 bpm</h2>
+    <audio controls>
+      <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_155-170.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <div>
+      <p>
+        <b>Track list</b>
+        <div>
+          1) Tengri - Shaman Landscape<br />
+          2) LuneCell - Lord Of Kobol<br />
+          3) Secret Society - My- Myself- And I<br />
+          4) Fractal Spin - Blood And Bones<br />
+          5) Oertis, Psykovsky - P. O. Saga<br />
+          6) Nutram Kalku - Messenger Chapeter 1<br />
+          7) Insane Creature, Isometric - Four Twenty<br />
+          8) Electryps - Healing Vision<br />
+          9) Nutram Kalku - Shivaratri<br />
+          10) Secret Society - Middle Hand Toe<br />
+          11) Oxidaksi - Finest Collection<br />
+          12) Secret Society - Mercury In Retroclub<br />
+          13) Xochipilli - Umma Trance Gumma<br />
         </div>
       <p />
     </div>
