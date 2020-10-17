@@ -2,6 +2,38 @@
   <div class="hello">
     <!--<h1>{{ msg }}</h1>-->
     <hr />
+    <h1>2020 Mix Psychedelic chill out</h1>
+    <audio controls>
+      <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Psychedelic_Chill.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <div>
+      <p>
+        <b>Track list</b>
+        <div>
+          1) Sortna - This Is Weird (Electryps remix)
+          2) Avaris - Coyote's Wisdom
+          3) Jakare - Koala
+          4) Tengri, Ajja - A Course In Miracles
+          5) Tengri, Dubnotic - Level Of Awareness
+          6) Wei-Chi Field - Ancestral Codes
+          7) Hivetribe - Cats and Owls
+          8) Avaris - Transmission
+          9) Tikki Masala - Deep Mystery
+          10) Lobe - Mind Of A Child
+          11) Beatfarmer - Tuvan Dream
+          12) Archaic - Shamanic Overtones
+          13) Tengri - Juno Dream
+          14) Tengri, Hypnotizer - Sky Tribe
+          15) Tengri, Avaris - The Speaking Oakwoods
+          16) Tengri - Trancedence
+          17) Tengri, Yudhisthira - Crystal Ship
+          18) Naturelement - Out Flow
+          19) Androcell - Sacred Knowledge
+          20) Ekorce - Geometric Swing
+        </div>
+      <p />
+    </div>
     <h1>2020 Mix Psychedelic trance</h1>
     <h2>150 bpm<h2/>
     <audio controls>
