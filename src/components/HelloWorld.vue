@@ -11,26 +11,26 @@
       <p>
         <b>Track list</b>
         <div>
-          1) Sortna - This Is Weird (Electryps remix)
-          2) Avaris - Coyote's Wisdom
-          3) Jakare - Koala
-          4) Tengri, Ajja - A Course In Miracles
-          5) Tengri, Dubnotic - Level Of Awareness
-          6) Wei-Chi Field - Ancestral Codes
-          7) Hivetribe - Cats and Owls
-          8) Avaris - Transmission
-          9) Tikki Masala - Deep Mystery
-          10) Lobe - Mind Of A Child
-          11) Beatfarmer - Tuvan Dream
-          12) Archaic - Shamanic Overtones
-          13) Tengri - Juno Dream
-          14) Tengri, Hypnotizer - Sky Tribe
-          15) Tengri, Avaris - The Speaking Oakwoods
-          16) Tengri - Trancedence
-          17) Tengri, Yudhisthira - Crystal Ship
-          18) Naturelement - Out Flow
-          19) Androcell - Sacred Knowledge
-          20) Ekorce - Geometric Swing
+          1) Sortna - This Is Weird (Electryps remix)<br />
+          2) Avaris - Coyote's Wisdom<br />
+          3) Jakare - Koala<br />
+          4) Tengri, Ajja - A Course In Miracles<br />
+          5) Tengri, Dubnotic - Level Of Awareness<br />
+          6) Wei-Chi Field - Ancestral Codes<br />
+          7) Hivetribe - Cats and Owls<br />
+          8) Avaris - Transmission<br />
+          9) Tikki Masala - Deep Mystery<br />
+          10) Lobe - Mind Of A Child<br />
+          11) Beatfarmer - Tuvan Dream<br />
+          12) Archaic - Shamanic Overtones<br />
+          13) Tengri - Juno Dream<br />
+          14) Tengri, Hypnotizer - Sky Tribe<br />
+          15) Tengri, Avaris - The Speaking Oakwoods<br />
+          16) Tengri - Trancedence<br />
+          17) Tengri, Yudhisthira - Crystal Ship<br />
+          18) Naturelement - Out Flow<br />
+          19) Androcell - Sacred Knowledge<br />
+          20) Ekorce - Geometric Swing<br />
         </div>
       <p />
     </div>
