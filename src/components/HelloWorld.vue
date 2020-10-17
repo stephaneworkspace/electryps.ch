@@ -62,7 +62,7 @@
         </div>
       <p />
     </div>
-    <h2>155 bpm -> 170 bpm<h2/>
+    <h2>155 bpm -> 170 bpm</h2>
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_155-170.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
