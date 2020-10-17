@@ -3,6 +3,7 @@
     <!--<h1>{{ msg }}</h1>-->
     <hr />
     <h1>2020 Mix Psychedelic chill out</h1>
+    <h2>Chill bpm</h2>    
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Psychedelic_Chill.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -35,7 +36,7 @@
       <p />
     </div>
     <h1>2020 Mix Psychedelic trance</h1>
-    <h2>150 bpm<h2/>
+    <h2>150 bpm</h2>
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_Forest.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
@@ -61,7 +62,7 @@
         </div>
       <p />
     </div>
-    <h2>155 bpm -> 170 bpm</h2>
+    <h2>155 bpm -> 170 bpm<h2/>
     <audio controls>
       <source src="https://www.electryps.ch/static/Electryps_-_Mix_2020_-_155-170.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
