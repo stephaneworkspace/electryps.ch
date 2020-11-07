@@ -164,6 +164,40 @@
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/866818621&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
     <hr />
+    <h1>Drum and bass (Not electryps -> Solar Empire)</h1>
+    <h2>Drum and bass unmastered</h2>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872998576&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/924683338&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/924685237&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+    <h2>Drum and bass mix</h2>
+    <audio controls>
+      <source src="https://www.electryps.ch/static/Solar_Empire_-_Mix_2020_-_Drum_And_Bass.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <div>
+      <p>
+        <b>Track list</b>
+        <div>
+          1) Kiril - Hello!<br />
+          2) Arkaik - Severance<br />
+          3) Enduser - Bollywood Break (Solar Empire Remix)<br />
+          4) Need For Mirrors - Odd Future<br />
+          5) Repeater - Dyslecix Funky Droid (Solar Empire Remix)<br />
+          6) Dub Head - Bring You Back Online<br />
+          7) Subtle Element - Questions And Answers<br />
+          8) Beta 2 And Zero T - Amalfi<br />
+          9) Ed Rush And Optical - Dozer<br />
+          10) Bill Riley - Closing In<br />
+          11) Optical - Slip Thru<br />
+          12) Kiril - Endless<br />
+          13) Nymfo - Count Them Off<br />
+          14) Kiril - Hypertension<br />
+          15) Kiril - Black Coffee<br />
+          16) Digital White Label WL 001 - 03 (Technical Itch Records)<br />
+          17) Solar Empire - Birth Of Empire<br />
+        </div>
+      <p />
+    </div>
     <h1>2020 Dub techno work</h1>
     <h2>Dub techno unmastered</h2>
     <iframe
@@ -309,5 +343,33 @@ li {
 }
 a {
   color: #42b983;
+}
+audio {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+audio {
+	width: 100%;
+}
+audio::-webkit-media-controls-enclosure {
+	max-width: none
+}
+audio::-webkit-media-controls-panel {
+	background-color: transparent
+}
+audio::-webkit-media-controls-play-button {
+	-webkit-appearance: none;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAMAAAD3Y3VMAAAAGFBMVEXqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWSqmnHoAAAAB3RSTlMAAQOQkaipUd1d4wAAADBJREFUeAFjYGBgZGSAAUZmZkY4k50dxmFiY6eIw8QKZLMwkspkYGSBMKEcGBPZzQCV0AGPVdxMxgAAAABJRU5ErkJggg==) 50% 50% no-repeat;
+}
+audio::-webkit-media-controls-mute-button {
+	-webkit-appearance: none;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAMAAAAs2N9uAAAAYFBMVEXqgWT////qgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWTqgWSj/dGmAAAAH3RSTlMAAAEDFSAqQEZIT3+MjY+QkZmjqKmqt8bH4OLw8/3+CsnX2AAAAHtJREFUeNpl0NsOwjAMA1C7Y2zAoAXKHeb//8tFKk0f5scjJXKCf0IAWFIlxmA09QCrSDGQuvSgi3JHPjSBLrphwP79HWlCGszKuA846WiUVJJxOGOnJxHltH1how+R1lRsboO+Xr6+lEgmv1bC7epV3ZIfVC21s9fPWQCqbQznzfJieAAAAABJRU5ErkJggg==) 50% 50% no-repeat;
+}
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+	color: #1e140d
 }
 </style>
