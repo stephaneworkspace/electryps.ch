@@ -354,7 +354,7 @@ audio {
 audio {
 	width: 100%;
 }
-audio::-webkit-media-controls-enclosure {
+/*audio::-webkit-media-controls-enclosure {
 	max-width: none
 }
 audio::-webkit-media-controls-panel {
@@ -371,5 +371,5 @@ audio::-webkit-media-controls-mute-button {
 audio::-webkit-media-controls-current-time-display,
 audio::-webkit-media-controls-time-remaining-display {
 	color: #1e140d
-}
+}*/
 </style>
