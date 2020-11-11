@@ -89,7 +89,7 @@
     </div>
     <hr />
     <h1>2020 Progressive trance work</h1>
-    <h2>138bpm unmastered</h2>
+    <!--<h2>138bpm unmastered</h2>
     <iframe
       width="100%"
       height="166"
@@ -97,7 +97,9 @@
       frameborder="no"
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900401629%3Fsecret_token%3Ds-m5fnPw5jvNJ&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
-    ></iframe>
+    ></iframe>-->
+    <h2>145 bpm unmastered</h2>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/926561992&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
     <hr />
     <h1>2020 Psychedelic trance work</h1>
     <h2>146bpm unmastered</h2>
@@ -198,6 +200,9 @@
         </div>
       <p />
     </div>
+    <h1>Speedcore (Not electryps -> Solar Core Empire)</h1>
+    <h2>Speedcore unmastered</h2>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/927570184&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
     <h1>2020 Dub techno work</h1>
     <h2>Dub techno unmastered</h2>
     <iframe
