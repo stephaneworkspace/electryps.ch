@@ -88,7 +88,7 @@
       <p />
     </div>
     <hr />
-    <h1>2020 Progressive trance work</h1>
+    <h1>2020 Progressive trance work (Electryps In Prog)</h1>
     <!--<h2>138bpm unmastered</h2>
     <iframe
       width="100%"
