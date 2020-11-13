@@ -200,9 +200,10 @@
         </div>
       <p />
     </div>
-    <h1>Speedcore (Not electryps -> Solar Core Empire)</h1>
-    <h2>Speedcore unmastered</h2>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/927570184&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+    <h1>Hardcore techno(Not electryps -> Solar Core Empire)</h1>
+    <h2>Hardcore techno unmastered</h2>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/928824928&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/928828549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
     <h1>2020 Dub techno work</h1>
     <h2>Dub techno unmastered</h2>
     <iframe
