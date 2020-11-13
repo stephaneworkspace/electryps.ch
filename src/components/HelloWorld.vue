@@ -200,7 +200,7 @@
         </div>
       <p />
     </div>
-    <h1>Hardcore techno(Not electryps -> Solar Core Empire)</h1>
+    <h1>Hardcore techno (Not electryps -> Solar Core Empire)</h1>
     <h2>Hardcore techno unmastered</h2>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/928824928&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/928828549&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
